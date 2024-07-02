@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning more about technologies and software
 - 👯 I'm motivated to collaborate and work with communities that contribute to technology, especially in automation testing.
 - :heartbeat: I'm committed to applying my expanding knowledge in QA Engineering to create effective and innovative solutions. My aim is to blend my customer service and digital marketing experience with my technical skills to make a positive impact on the projects I engage with.
-- :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/jenessy-esteves?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
+- :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/jenessy-esteves?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
 - :e-mail: jenessymestevesg@gmail.com
 - :iphone: +55 11 989581811
 
