@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - 🔭 I’m someone passionate about growing and learning . Currently, I'm a QA Engineer, excited to share my latest projects.
 - 🌱 I’m currently learning more about technologies and software
 - 👯 I'm motivated to collaborate and work with communities that contribute to technology, especially in automation testing.
+- 
+- :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/jenessy-esteves?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
+- :e-mail: jenessymestevesg@gmail.com
+- :iphone: +55 11 989581811
 
 ## :hammer_and_wrench: Languages ​​and tools:
 
@@ -50,6 +54,15 @@ Here are some ideas to get you started:
   </a>
   
 </div>
+
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JenessyMEG.JenessyMEG&color=00cf00" alt=""/>
+
+### :fire: Mis estadísticas:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JenessyMEG&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenessyMEG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
