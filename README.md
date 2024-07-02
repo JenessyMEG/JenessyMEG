@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JenessyMEG/JenessyMEG/assets/171646770/9ca0eb2a-812d-4937-989e-cd7b9d42464e.png" />
+  <img decoding="async" src="https://github.com/JenessyMEG/JenessyMEG/assets/171646770/f42b8487-ca92-45b5-bec9-cc7625c202df.png" />
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
