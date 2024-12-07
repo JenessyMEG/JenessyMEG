@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 
 ------------
 
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
+|    Project Name  | Notebook or Link    | Language    | Observation  | 
 | ------------        | ------------        | ------------ |------------ |
-| *Proyecto Urban Routes* | [Projet_test_app](https://github.com/JenessyMEG/qa-project-Urban-Routes-es) | Python | **Proyecto Urban Routes**. This project involves the execution of tests for a taxi request in the "Comfort" mode, covering the entire selection process, from the addresses to the search for a driver..|
-| *Proyecto Urban Grocers* | [Projet_site](https://github.com/JenessyMEG/qa-project-Urban-Grocers-app-es) | Python| **Proyecto Urban Grocers**. This project is about running tests on the request to create a kit for a created user, specifically the "name" field and its conditions and limitations.|
-| *Hackathon_QA-2024* | [Projet_app_siteWeb_API](https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2) | Python| **Hackathon_QA-2024_time_2**. Winning project of the event, where the following implementation phases were used: dataset analysis and visualization, test execution, reporting, automation, results presentation.|
+| *Proyecto Urban Routes* | [Project_test_app](https://github.com/JenessyMEG/qa-project-Urban-Routes-es) | Python | **Project Urban Routes**. This project involves the execution of tests for a taxi request in the "Comfort" mode, covering the entire selection process, from the addresses to the search for a driver..|
+| *Proyecto Urban Grocers* | [Project_site](https://github.com/JenessyMEG/qa-project-Urban-Grocers-app-es) | Python| **Project Urban Grocers**. This project is about running tests on the request to create a kit for a created user, specifically the "name" field and its conditions and limitations.|
+| *Hackathon_QA-2024* | [Project_app_siteWeb_API](https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2) | Python| **Hackathon_QA-2024_time_2**. Winning project of the event, where the following implementation phases were used: dataset analysis and visualization, test execution, reporting, automation, results presentation.|
 
 ### :fire: Mis estadísticas:
 
