@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Olá 👋 Sou a Jenessy, prazer de ter voce aqui 
-## Se conecta aqui conmigo descubramos e exploremos juntos o mundo da qualidade e desenvolvimento!
+## Se conecta conmigo, descubramos e exploremos juntos o mundo da qualidade e desenvolvimento!
 
 🔍 Sou uma QA Engineer empolgada e dedicada na qualidade de software, automação de testes e entrega contínua. Meu foco é garantir aplicações robustas, seguras e eficientes, combinando testes manuais e automatizados para melhorar a experiência do usuário.
 
