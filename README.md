@@ -2,8 +2,6 @@
   <img decoding="async" src="https://github.com/JenessyMEG/JenessyMEG/assets/171646770/f42b8487-ca92-45b5-bec9-cc7625c202df.png" />
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
-
 <!--
 **JenessyMEG/JenessyMEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,15 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 I'm Jenessy. 
-## Connect with me and let's explore the world of development and testing together!
+# Olá 👋 Sou a Jenessy, prazer de ter voce aqui 
+## Se conecta aqui conmigo descubramos e exploremos juntos o mundo da qualidade e desenvolvimento!
 
-- 🔭 I’m someone passionate about growing and learning . Currently, I'm a QA Engineer, excited to share my latest projects.
-- 🌱 I’m currently learning more about technologies and software
-- 👯 I'm motivated to collaborate and work with communities that contribute to technology, especially in automation testing.
-- :heartbeat: I'm committed to applying my expanding knowledge in QA Engineering to create effective and innovative solutions. My aim is to blend my customer service and digital marketing experience with my technical skills to make a positive impact on the projects I engage with.
-- :mailbox: Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/jenessy-esteves?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
-- :e-mail: jenessymestevesg@gmail.com
+🔍 Sou uma QA Engineer empolgada e dedicada na qualidade de software, automação de testes e entrega contínua. Meu foco é garantir aplicações robustas, seguras e eficientes, combinando testes manuais e automatizados para melhorar a experiência do usuário.
+
+💡 O que eu faço?
+- ✔ Testes automatizados com Selenium, Pytest, e estou me especializando em Cypress
+- ✔ Testes de API com Postman
+- ✔ Testes de manuais como exploratorios, de regressão, de funcionalidade e interfaz
+- ✔ Integração de testes em pipelines CI/CD (GitHub Actions)
+- ✔ Metodologias ágeis: Scrum, Kanban, Waterfall
+
+🚀 Sempre buscando aprender e compartilhar conhecimento sobre QA e melhores práticas de testes! Disposta por aprender cada vez mais, implemntar planos de testes eficientes e colaborar em projetos internacionais e com equipes globais
+
+- 📫 Conecte-se comigo:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenessy-esteves/)
+- :e-mail: qatesterjenessyesteves@gmail.com
 - :iphone: +55 11 989581811
 
 ## :hammer_and_wrench: Languages ​​and tools:
@@ -62,9 +68,9 @@ Here are some ideas to get you started:
 
 |    Project Name  | Notebook or Link    | Language    | Observation  | 
 | ------------        | ------------        | ------------ |------------ |
-| *Proyecto Urban Routes* | [Project_test_app](https://github.com/JenessyMEG/qa-project-Urban-Routes-es) | Python | **Project Urban Routes**. This project involves the execution of tests for a taxi request in the "Comfort" mode, covering the entire selection process, from the addresses to the search for a driver..|
-| *Proyecto Urban Grocers* | [Project_site](https://github.com/JenessyMEG/qa-project-Urban-Grocers-app-es) | Python| **Project Urban Grocers**. This project is about running tests on the request to create a kit for a created user, specifically the "name" field and its conditions and limitations.|
-| *Hackathon_QA-2024* | [Project_app_siteWeb_API](https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2) | Python| **Hackathon_QA-2024_time_2**. Winning project of the event, where the following implementation phases were used: dataset analysis and visualization, test execution, reporting, automation, results presentation.|
+| *Proyecto Urban Routes em Postman* | [Project_test_app](https://github.com/JenessyMEG/qa-project-Urban-Routes-es) | Python | **Project Urban Routes**. Este projeto envolve a execução de testes para uma solicitação de táxi no modo "Conforto", cobrindo todo o processo de seleção, desde os endereços até a busca por um motorista.|
+| *Proyecto Urban Grocers em PyCharm* | [Project_site](https://github.com/JenessyMEG/qa-project-Urban-Grocers-app-es) | Python| **Project Urban Grocers**. Este projeto trata da execução de testes na solicitação de criação de um kit para um usuário criado, especificamente no campo "nome" e suas condições e limitações.|
+| *Hackathon_QA-2024 em Pycharm* | [Project_app_siteWeb_API](https://github.com/JenessyMEG/Hackathon_QA-2024_Equipo-2) | Python| **Hackathon_QA-2024_time_2**. Projeto vencedor do evento, onde foram utilizadas as seguintes fases de implementação: análise e visualização do dataset, execução de testes, geração de relatórios, automação e apresentação de resultados.|
 
 ### :fire: Mis estadísticas:
 
